@@ -25,7 +25,7 @@ SECRET_KEY = '!@*e1&ryr^x3eo%e81u@3sf^!y%%mg=s&*y#pscp&x+gzcva5x'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['muaewsomeapp.herokuapp.com']
 
 
 # Application definition
